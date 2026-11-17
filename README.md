@@ -48,7 +48,8 @@ O assistente de voz funciona melhor no **Google Chrome** ou **Microsoft Edge**, 
 
 ## Demonstração
 
-[Adicione aqui o link do GitHub Pages ou uma captura de tela] 
+<img width="1913" height="958" alt="Captura de tela 2026-11-17 172812" src="https://github.com/user-attachments/assets/d25b5090-e18b-433b-b022-50cf939cd641" />
+
 
 ## Próximos passos
 
